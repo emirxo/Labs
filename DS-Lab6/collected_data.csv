@@ -1,0 +1,662 @@
+title,summary,url
+A framework for understanding data science,"The objective of this research is to provide a framework with which the data
+science community can understand, define, and develop data science as a field
+of inquiry. The framework is based on the classical reference framework
+(axiology, ontology, epistemology, methodology) used for 200 years to define
+knowledge discovery paradigms and disciplines in the humanities, sciences,
+algorithms, and now data science. I augmented it for automated problem-solving
+with (methods, technology, community). The resulting data science reference
+framework is used to define the data science knowledge discovery paradigm in
+terms of the philosophy of data science addressed in previous papers and the
+data science problem-solving paradigm, i.e., the data science method, and the
+data science problem-solving workflow, both addressed in this paper. The
+framework is a much called for unifying framework for data science as it
+contains the components required to define data science. For insights to better
+understand data science, this paper uses the framework to define the emerging,
+often enigmatic, data science problem-solving paradigm and workflow, and to
+compare them with their well-understood scientific counterparts, scientific
+problem-solving paradigm and workflow.",http://arxiv.org/abs/2403.00776v1
+Defining Data Science,"Data science is gaining more and more and widespread attention, but no
+consensus viewpoint on what data science is has emerged. As a new science, its
+objects of study and scientific issues should not be covered by established
+sciences. Data in cyberspace have formed what we call datanature. In the
+present paper, data science is defined as the science of exploring datanature.",http://arxiv.org/abs/1501.05039v1
+Data Science in Perspective,"Data and Science has stood out in the generation of results, whether in the
+projects of the scientific domain or business domain. CERN Project, Scientific
+Institutes, companies like Walmart, Google, Apple, among others, need data to
+present their results and make predictions in the competitive data world. Data
+and Science are words that together culminated in a globally recognized term
+called Data Science. Data Science is in its initial phase, possibly being part
+of formal sciences and also being presented as part of applied sciences,
+capable of generating value and supporting decision making. Data Science
+considers science and, consequently, the scientific method to promote decision
+making through data intelligence. In many cases, the application of the method
+(or part of it) is considered in Data Science projects in scientific domain
+(social sciences, bioinformatics, geospatial projects) or business domain
+(finance, logistic, retail), among others. In this sense, this article
+addresses the perspectives of Data Science as a multidisciplinary area,
+considering science and the scientific method, and its formal structure which
+integrate Statistics, Computer Science, and Business Science, also taking into
+account Artificial Intelligence, emphasizing Machine Learning, among others.
+The article also deals with the perspective of applied Data Science, since Data
+Science is used for generating value through scientific and business projects.
+Data Science persona is also discussed in the article, concerning the education
+of Data Science professionals and its corresponding profiles, since its
+projection changes the field of data in the world.",http://arxiv.org/abs/2201.05852v1
+Data Science: A Comprehensive Overview,"The twenty-first century has ushered in the age of big data and data economy,
+in which data DNA, which carries important knowledge, insights and potential,
+has become an intrinsic constituent of all data-based organisms. An appropriate
+understanding of data DNA and its organisms relies on the new field of data
+science and its keystone, analytics. Although it is widely debated whether big
+data is only hype and buzz, and data science is still in a very early phase,
+significant challenges and opportunities are emerging or have been inspired by
+the research, innovation, business, profession, and education of data science.
+This paper provides a comprehensive survey and tutorial of the fundamental
+aspects of data science: the evolution from data analysis to data science, the
+data science concepts, a big picture of the era of data science, the major
+challenges and directions in data innovation, the nature of data analytics, new
+industrialization and service opportunities in the data economy, the profession
+and competency of data education, and the future of data science. This article
+is the first in the field to draw a comprehensive big picture, in addition to
+offering rich observations, lessons and thinking about data science and
+analytics.",http://arxiv.org/abs/2007.03606v1
+Ten Research Challenge Areas in Data Science,"Although data science builds on knowledge from computer science, mathematics,
+statistics, and other disciplines, data science is a unique field with many
+mysteries to unlock: challenging scientific questions and pressing questions of
+societal importance. This article starts with meta-questions about data science
+as a discipline and then elaborates on ten ideas for the basis of a research
+agenda for data science.",http://arxiv.org/abs/2002.05658v1
+"The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large","Increasingly larger number of software systems today are including data
+science components for descriptive, predictive, and prescriptive analytics. The
+collection of data science stages from acquisition, to cleaning/curation, to
+modeling, and so on are referred to as data science pipelines. To facilitate
+research and practice on data science pipelines, it is essential to understand
+their nature. What are the typical stages of a data science pipeline? How are
+they connected? Do the pipelines differ in the theoretical representations and
+that in the practice? Today we do not fully understand these architectural
+characteristics of data science pipelines. In this work, we present a
+three-pronged comprehensive study to answer this for the state-of-the-art, data
+science in-the-small, and data science in-the-large. Our study analyzes three
+datasets: a collection of 71 proposals for data science pipelines and related
+concepts in theory, a collection of over 105 implementations of curated data
+science pipelines from Kaggle competitions to understand data science
+in-the-small, and a collection of 21 mature data science projects from GitHub
+to understand data science in-the-large. Our study has led to three
+representations of data science pipelines that capture the essence of our
+subjects in theory, in-the-small, and in-the-large.",http://arxiv.org/abs/2112.01590v3
+Embracing Data Science,"Statistics is running the risk of appearing irrelevant to today's
+undergraduate students. Today's undergraduate students are familiar with data
+science projects and they judge statistics against what they have seen.
+Statistics, especially at the introductory level, should take inspiration from
+data science so that the discipline is not seen as somehow lesser than data
+science. This article provides a brief overview of data science, outlines ideas
+for how introductory courses could take inspiration from data science, and
+provides a reference to materials for developing stand-alone data science
+courses.",http://arxiv.org/abs/1607.00858v1
+Defining data science: a new field of inquiry,"Data science is not a science. It is a research paradigm. Its power, scope,
+and scale will surpass science, our most powerful research paradigm, to enable
+knowledge discovery and change our world. We have yet to understand and define
+it, vital to realizing its potential and managing its risks. Modern data
+science is in its infancy. Emerging slowly since 1962 and rapidly since 2000,
+it is a fundamentally new field of inquiry, one of the most active, powerful,
+and rapidly evolving 21st century innovations. Due to its value, power, and
+applicability, it is emerging in over 40 disciplines, hundreds of research
+areas, and thousands of applications. Millions of data science publications
+contain myriad definitions of data science and data science problem solving.
+Due to its infancy, many definitions are independent, application specific,
+mutually incomplete, redundant, or inconsistent, hence so is data science. This
+research addresses this data science multiple definitions challenge by
+proposing the development of coherent, unified definition based on a data
+science reference framework using a data science journal for the data science
+community to achieve such a definition. This paper provides candidate
+definitions for essential data science artifacts that are required to discuss
+such a definition. They are based on the classical research paradigm concept
+consisting of a philosophy of data science, the data science problem solving
+paradigm, and the six component data science reference framework (axiology,
+ontology, epistemology, methodology, methods, technology) that is a frequently
+called for unifying framework with which to define, unify, and evolve data
+science. It presents challenges for defining data science, solution approaches,
+i.e., means for defining data science, and their requirements and benefits as
+the basis of a comprehensive solution.",http://arxiv.org/abs/2306.16177v3
+Undergraduate data science education: Who has the microphone and what are they saying?,"The presence of data science has been profound in the scientific community in
+almost every discipline. An important part of the data science education
+expansion has been at the undergraduate level. We conducted a systematic
+literature review to (1) specify current evidence and knowledge gaps in
+undergraduate data science education and (2) inform policymakers and data
+science educators/practitioners about the present status of data science
+education research. The majority of the publications in data science education
+that met our search criteria were available open-access. Our results indicate
+that data science education research lacks empirical data and reproducibility.
+Not all disciplines contribute equally to the field of data science education.
+Computer science and data science as a separate field emerge as the leading
+contributors to the literature. In contrast, fields such as statistics,
+mathematics, as well as other fields closely related to data science exhibit a
+limited presence in studies. We recommend that federal agencies and researchers
+1) invest in empirical data science education research; 2) diversify research
+efforts to enrich the spectrum of types of studies; 3) encourage scholars in
+key data science fields that are currently underrepresented in the literature
+to contribute more to research and publications.",http://arxiv.org/abs/2403.03387v1
+Why Data Science Projects Fail,"Data Science is a modern Data Intelligence practice, which is the core of
+many businesses and helps businesses build smart strategies around to deal with
+businesses challenges more efficiently. Data Science practice also helps in
+automating business processes using the algorithm, and it has several other
+benefits, which also deliver in a non-profitable framework. In regards to data
+science, three key components primarily influence the effective outcome of a
+data science project. Those are 1.Availability of Data 2.Algorithm 3.Processing
+power or infrastructure",http://arxiv.org/abs/2308.04896v1
+Citizen Science in the European Open Science Cloud,"The European Open Science Cloud aims to make all data Findable, Accessible,
+Interoperable and Reusable. By far the largest community of users of the
+European Open Science Cloud is the science-inclined public. These users need a
+more curated experience of open science than subject specialists, but
+nevertheless make very substantial research contributions in open science,
+especially in crowdsourced data mining, i.e. citizen science. This short,
+non-technical invited review presents applications of citizen science in the
+European Open Science Cloud, with a particular focus on astrophysics and
+astroparticle physics.",http://arxiv.org/abs/2307.06896v1
+Building Data Science Capabilities into University Data Warehouse to Predict Graduation,"The discipline of data science emerged to combine statistical methods with
+computing. At Aalto University, Finland, we have taken first steps to bring
+educational data science as a part of daily operations of Management
+Information Services. This required changes in IT environment: we enhanced data
+warehouse infrastructure with a data science lab, where we can read predictive
+model training data from data warehouse database and use the created predictive
+models in database queries. We then conducted a data science pilot with an
+objective to predict students' graduation probability and time-to-degree with
+student registry data. Further ethical and legal considerations are needed
+before using predictions in daily operations of the university.",http://arxiv.org/abs/1805.05401v1
+Starting with data: advancing spatial data science by building and sharing high-quality datasets,"Spatial data science has emerged in recent years as an interdisciplinary
+field. This position paper discusses the importance of building and sharing
+high-quality datasets for spatial data science.",http://arxiv.org/abs/2007.08087v1
+Data Science in Biomedicine,"We highlight the role of Data Science in Biomedicine. Our manuscript goes
+from the general to the particular, presenting a global definition of Data
+Science and showing the trend for this discipline together with the terms of
+cloud computing and big data. In addition, since Data Science is mostly related
+to areas like economy or business, we describe its importance in biomedicine.
+Biomedical Data Science (BDS) presents the challenge of dealing with data
+coming from a range of biological and medical research, focusing on
+methodologies to advance the biomedical science discoveries, in an
+interdisciplinary context.",http://arxiv.org/abs/1909.04486v1
+Perspectives on Surgical Data Science,"The availability of large amounts of data together with advances in
+analytical techniques afford an opportunity to address difficult challenges in
+ensuring that healthcare is safe, effective, efficient, patient-centered,
+equitable, and timely. Surgical care and training stand to tremendously gain
+through surgical data science. Herein, we discuss a few perspectives on the
+scope and objectives for surgical data science.",http://arxiv.org/abs/1610.04276v1
+Data Science: Nature and Pitfalls,"Data science is creating very exciting trends as well as significant
+controversy. A critical matter for the healthy development of data science in
+its early stages is to deeply understand the nature of data and data science,
+and to discuss the various pitfalls. These important issues motivate the
+discussions in this article.",http://arxiv.org/abs/2006.16964v1
+Navigating Diverse Data Science Learning: Critical Reflections Towards Future Practice,"Data Science is currently a popular field of science attracting expertise
+from very diverse backgrounds. Current learning practices need to acknowledge
+this and adapt to it. This paper summarises some experiences relating to such
+learning approaches from teaching a postgraduate Data Science module, and draws
+some learned lessons that are of relevance to others teaching Data Science.",http://arxiv.org/abs/1807.03750v1
+ChatGPT for Teaching and Learning: An Experience from Data Science Education,"ChatGPT, an implementation and application of large language models, has
+gained significant popularity since its initial release. Researchers have been
+exploring ways to harness the practical benefits of ChatGPT in real-world
+scenarios. Educational researchers have investigated its potential in various
+subjects, e.g., programming, mathematics, finance, clinical decision support,
+etc. However, there has been limited attention given to its application in data
+science education. This paper aims to bridge that gap by utilizing ChatGPT in a
+data science course, gathering perspectives from students, and presenting our
+experiences and feedback on using ChatGPT for teaching and learning in data
+science education. The findings not only distinguish data science education
+from other disciplines but also uncover new opportunities and challenges
+associated with incorporating ChatGPT into the data science curriculum.",http://arxiv.org/abs/2307.16650v1
+"Trust in Data Science: Collaboration, Translation, and Accountability in Corporate Data Science Projects","The trustworthiness of data science systems in applied and real-world
+settings emerges from the resolution of specific tensions through situated,
+pragmatic, and ongoing forms of work. Drawing on research in CSCW, critical
+data studies, and history and sociology of science, and six months of immersive
+ethnographic fieldwork with a corporate data science team, we describe four
+common tensions in applied data science work: (un)equivocal numbers,
+(counter)intuitive knowledge, (in)credible data, and (in)scrutable models. We
+show how organizational actors establish and re-negotiate trust under messy and
+uncertain analytic conditions through practices of skepticism, assessment, and
+credibility. Highlighting the collaborative and heterogeneous nature of
+real-world data science, we show how the management of trust in applied
+corporate data science settings depends not only on pre-processing and
+quantification, but also on negotiation and translation. We conclude by
+discussing the implications of our findings for data science research and
+practice, both within and beyond CSCW.",http://arxiv.org/abs/2002.03389v1
+"Opinionated practices for teaching reproducibility: motivation, guided instruction and practice","In the data science courses at the University of British Columbia, we define
+data science as the study, development and practice of reproducible and
+auditable processes to obtain insight from data. While reproducibility is core
+to our definition, most data science learners enter the field with other
+aspects of data science in mind, for example predictive modelling, which is
+often one of the most interesting topic to novices. This fact, along with the
+highly technical nature of the industry standard reproducibility tools
+currently employed in data science, present out-of-the gate challenges in
+teaching reproducibility in the data science classroom. Put simply, students
+are not as intrinsically motivated to learn this topic, and it is not an easy
+one for them to learn. What can a data science educator do? Over several
+iterations of teaching courses focused on reproducible data science tools and
+workflows, we have found that providing extra motivation, guided instruction
+and lots of practice are key to effectively teaching this challenging, yet
+important subject. Here we present examples of how we deeply motivate,
+effectively guide and provide ample practice opportunities to data science
+students to effectively engage them in learning about this topic.",http://arxiv.org/abs/2109.13656v2
+"How sustainable is ""common"" data science in terms of power consumption?","Continuous developments in data science have brought forth an exponential
+increase in complexity of machine learning models. Additionally, data
+scientists have become ubiquitous in the private market, academic environments
+and even as a hobby. All of these trends are on a steady rise, and are
+associated with an increase in power consumption and associated carbon
+footprint. The increasing carbon footprint of large-scale advanced data science
+has already received attention, but the latter trend has not. This work aims to
+estimate the contribution of the increasingly popular ""common"" data science to
+the global carbon footprint. To this end, the power consumption of several
+typical tasks in the aforementioned common data science tasks will be measured
+and compared to: large-scale ""advanced"" data science, common computer-related
+tasks, and everyday non-computer related tasks. This is done by converting the
+measurements to the equivalent unit of ""km driven by car"". Our main findings
+are: ""common"" data science consumes $2.57$ more power than regular computer
+usage, but less than some common everyday power-consuming tasks such as
+lighting or heating; large-scale data science consumes substantially more power
+than common data science.",http://arxiv.org/abs/2207.01934v1
+How Do Data Science Workers Communicate Intermediate Results?,"Data science workers increasingly collaborate on large-scale projects before
+communicating insights to a broader audience in the form of visualization.
+While prior work has modeled how data science teams, oftentimes with distinct
+roles and work processes, communicate knowledge to outside stakeholders, we
+have little knowledge of how data science workers communicate intermediately
+before delivering the final products. In this work, we contribute a nuanced
+description of the intermediate communication process within data science
+teams. By analyzing interview data with 8 self-identified data science workers,
+we characterized the data science intermediate communication process with four
+factors, including the types of audience, communication goals, shared
+artifacts, and mode of communication. We also identified overarching challenges
+in the current communication process. We also discussed design implications
+that might inform better tools that facilitate intermediate communication
+within data science teams.",http://arxiv.org/abs/2210.03305v1
+"A data science axiology: the nature, value, and risks of data science","Data science is not a science. It is a research paradigm with an unfathomed
+scope, scale, complexity, and power for knowledge discovery that is not
+otherwise possible and can be beyond human reasoning. It is changing our world
+practically and profoundly already widely deployed in tens of thousands of
+applications in every discipline in an AI Arms Race that, due to its
+inscrutability, can lead to unfathomed risks. This paper presents an axiology
+of data science, its purpose, nature, importance, risks, and value for problem
+solving, by exploring and evaluating its remarkable, definitive features. As
+data science is in its infancy, this initial, speculative axiology is intended
+to aid in understanding and defining data science to recognize its potential
+benefits, risks, and open research challenges. AI based data science is
+inherently about uncertainty that may be more realistic than our preference for
+the certainty of science. Data science will have impacts far beyond knowledge
+discovery and will take us into new ways of understanding the world.",http://arxiv.org/abs/2307.10460v2
+Challenges and Opportunities of Teaching Data Visualization Together with Data Science,"With the increasing amount of data globally, analyzing and visualizing data
+are becoming essential skills across various professions. It is important to
+equip university students with these essential data skills. To learn, design,
+and develop data visualization, students need knowledge of programming and data
+science topics. Many university programs lack dedicated data science courses
+for undergraduate students, making it important to introduce these concepts
+through integrated courses. However, combining data science and data
+visualization into one course can be challenging due to the time constraints
+and the heavy load of learning. In this paper, we discuss the development of
+teaching data science and data visualization together in one course and share
+the results of the post-course evaluation survey. From the survey's results, we
+identified four challenges, including difficulty in learning multiple tools and
+diverse data science topics, varying proficiency levels with tools and
+libraries, and selecting and cleaning datasets. We also distilled five
+opportunities for developing a successful data science and visualization
+course. These opportunities include clarifying the course structure,
+emphasizing visualization literacy early in the course, updating the course
+content according to student needs, using large real-world datasets, learning
+from industry professionals, and promoting collaboration among students.",http://arxiv.org/abs/2409.05969v1
+Philosophy within Data Science Ethics Courses,"There is wide agreement that ethical considerations are a valuable aspect of
+a data science curriculum, and to that end, many data science programs offer
+courses in data science ethics. There are not always, however, explicit
+connections between data science ethics and the centuries-old work on ethics
+within the discipline of philosophy. Here, we present a framework for bringing
+together key data science practices with ethics topics. The ethics topics were
+collated from sixteen data science ethics courses with public-facing syllabi
+and reading lists. We encourage individuals who are teaching data science
+ethics to engage with the philosophical literature and its connection to
+current data science practices, which are rife with potentially morally charged
+decision points.",http://arxiv.org/abs/2310.02444v3
+The 4+1 Model of Data Science,"Data Science is a complex and evolving field, but most agree that it can be
+defined as a combination of expertise drawn from three broad areascomputer
+science and technology, math and statistics, and domain knowledge -- with the
+purpose of extracting knowledge and value from data. Beyond this, the field is
+often defined as a series of practical activities ranging from the cleaning and
+wrangling of data, to its analysis and use to infer models, to the visual and
+rhetorical representation of results to stakeholders and decision-makers. This
+essay proposes a model of data science that goes beyond laundry-list
+definitions to get at the specific nature of data science and help distinguish
+it from adjacent fields such as computer science and statistics. We define data
+science as an interdisciplinary field comprising four broad areas of expertise:
+value, design, systems, and analytics. A fifth area, practice, integrates the
+other four in specific contexts of domain knowledge. We call this the 4+1 model
+of data science. Together, these areas belong to every data science project,
+even if they are often unconnected and siloed in the academy.",http://arxiv.org/abs/2311.07631v1
+"Data-driven materials science: status, challenges and perspectives","Data-driven science is heralded as a new paradigm in materials science. In
+this field, data is the new resource, and knowledge is extracted from materials
+data sets that are too big or complex for traditional human reasoning -
+typically with the intent to discover new or improved materials or materials
+phenomena. Multiple factors, including the open science movement, national
+funding, and progress in information technology, have fueled its development.
+Such related tools as materials databases, machine learning, and
+high-throughput methods are now established as parts of the materials research
+toolset. However, there are a variety of challenges that impede progress in
+data-driven materials science: data veracity, integration of experimental and
+computational data, data longevity, standardization, and the gap between
+industrial interests and academic efforts. In this perspective article, we
+discuss the historical development and current state of data-driven materials
+science, building from the early evolution of open science to the rapid
+expansion of materials data infrastructures. We also review key successes and
+challenges so far, providing a perspective on the future development of the
+field.",http://arxiv.org/abs/1907.05644v2
+"How do Data Science Workers Collaborate? Roles, Workflows, and Tools","Today, the prominence of data science within organizations has given rise to
+teams of data science workers collaborating on extracting insights from data,
+as opposed to individual data scientists working alone. However, we still lack
+a deep understanding of how data science workers collaborate in practice. In
+this work, we conducted an online survey with 183 participants who work in
+various aspects of data science. We focused on their reported interactions with
+each other (e.g., managers with engineers) and with different tools (e.g.,
+Jupyter Notebook). We found that data science teams are extremely collaborative
+and work with a variety of stakeholders and tools during the six common steps
+of a data science workflow (e.g., clean data and train model). We also found
+that the collaborative practices workers employ, such as documentation, vary
+according to the kinds of tools they use. Based on these findings, we discuss
+design implications for supporting data science team collaborations and future
+research directions.",http://arxiv.org/abs/2001.06684v3
+Data science transfer pathways from associate's to bachelor's programs,"A substantial fraction of students who complete their college education at a
+public university in the United States begin their journey at one of the 935
+public two-year colleges. While the number of four-year colleges offering
+bachelor's degrees in data science continues to increase, data science
+instruction at many two-year colleges lags behind. A major impediment is the
+relative paucity of introductory data science courses that serve multiple
+student audiences and can easily transfer. In addition, the lack of pre-defined
+transfer pathways (or articulation agreements) for data science creates a
+growing disconnect that leaves students who want to study data science at a
+disadvantage. We describe opportunities and barriers to data science transfer
+pathways. Five points of curricular friction merit attention: 1) a first course
+in data science, 2) a second course in data science, 3) a course in scientific
+computing, data science workflow, and/or reproducible computing, 4) lab
+sciences, and 5) navigating communication, ethics, and application domain
+requirements in the context of general education and liberal arts course
+mappings. We catalog existing transfer pathways, efforts to align curricula
+across institutions, obstacles to overcome with minimally-disruptive solutions,
+and approaches to foster these pathways. Improvements in these areas are
+critically important to ensure that a broad and diverse set of students are
+able to engage and succeed in undergraduate data science programs.",http://arxiv.org/abs/2210.12528v2
+Data Quality Awareness: A Journey from Traditional Data Management to Data Science Systems,"Artificial intelligence (AI) has transformed various fields, significantly
+impacting our daily lives. A major factor in AI success is high-quality data.
+In this paper, we present a comprehensive review of the evolution of data
+quality (DQ) awareness from traditional data management systems to modern
+data-driven AI systems, which are integral to data science. We synthesize the
+existing literature, highlighting the quality challenges and techniques that
+have evolved from traditional data management to data science including big
+data and ML fields. As data science systems support a wide range of activities,
+our focus in this paper lies specifically in the analytics aspect driven by
+machine learning. We use the cause-effect connection between the quality
+challenges of ML and those of big data to allow a more thorough understanding
+of emerging DQ challenges and the related quality awareness techniques in data
+science systems. To the best of our knowledge, our paper is the first to
+provide a review of DQ awareness spanning traditional and emergent data science
+systems. We hope that readers will find this journey through the evolution of
+data quality awareness insightful and valuable.",http://arxiv.org/abs/2411.03007v1
+Data science is science's second chance to get causal inference right: A classification of data science tasks,"Causal inference from observational data is the goal of many data analyses in
+the health and social sciences. However, academic statistics has often frowned
+upon data analyses with a causal objective. The introduction of the term ""data
+science"" provides a historic opportunity to redefine data analysis in such a
+way that it naturally accommodates causal inference from observational data.
+Like others before, we organize the scientific contributions of data science
+into three classes of tasks: Description, prediction, and counterfactual
+prediction (which includes causal inference). An explicit classification of
+data science tasks is necessary to discuss the data, assumptions, and analytics
+required to successfully accomplish each task. We argue that a failure to
+adequately describe the role of subject-matter expert knowledge in data
+analysis is a source of widespread misunderstandings about data science.
+Specifically, causal analyses typically require not only good data and
+algorithms, but also domain expert knowledge. We discuss the implications for
+the use of data science to guide decision-making in the real world and to train
+data scientists.",http://arxiv.org/abs/1804.10846v6
+A large-scale comparative analysis of Coding Standard conformance in Open-Source Data Science projects,"Background: Meeting the growing industry demand for Data Science requires
+cross-disciplinary teams that can translate machine learning research into
+production-ready code. Software engineering teams value adherence to coding
+standards as an indication of code readability, maintainability, and developer
+expertise. However, there are no large-scale empirical studies of coding
+standards focused specifically on Data Science projects. Aims: This study
+investigates the extent to which Data Science projects follow code standards.
+In particular, which standards are followed, which are ignored, and how does
+this differ to traditional software projects? Method: We compare a corpus of
+1048 Open-Source Data Science projects to a reference group of 1099 non-Data
+Science projects with a similar level of quality and maturity. Results: Data
+Science projects suffer from a significantly higher rate of functions that use
+an excessive numbers of parameters and local variables. Data Science projects
+also follow different variable naming conventions to non-Data Science projects.
+Conclusions: The differences indicate that Data Science codebases are distinct
+from traditional software codebases and do not follow traditional software
+engineering conventions. Our conjecture is that this may be because traditional
+software engineering conventions are inappropriate in the context of Data
+Science projects.",http://arxiv.org/abs/2007.08978v2
+The Future of Data Science Education,"The definition of Data Science is a hotly debated topic. For many, the
+definition is a simple shortcut to Artificial Intelligence or Machine Learning.
+However, there is far more depth and nuance to the field of Data Science than a
+simple shortcut can provide. The School of Data Science at the University of
+Virginia has developed a novel model for the definition of Data Science. This
+model is based on identifying a unified understanding of the data work done
+across all areas of Data Science. It represents a generational leap forward in
+how we understand and teach Data Science. In this paper we will present the
+core features of the model and explain how it unifies various concepts going
+far beyond the analytics component of AI. From this foundation we will present
+our Undergraduate Major curriculum in Data Science and demonstrate how it
+prepares students to be well-rounded Data Science team members and leaders. The
+paper will conclude with an in-depth overview of the Foundations of Data
+Science course designed to introduce students to the field while also
+implementing proven STEM oriented pedagogical methods. These include, for
+example, specifications grading, active learning lectures, guest lectures from
+industry experts and weekly gamification labs.",http://arxiv.org/abs/2407.11824v1
+A Review into Data Science and Its Approaches in Mechanical Engineering,"Nowadays it is inevitable to use intelligent systems to improve the
+performance and optimization of different components of devices or factories.
+Furthermore, it's so essential to have appropriate predictions to make better
+decisions in businesses, medical studies, and engineering studies, etc. One of
+the newest and most widely used of these methods is a field called Data Science
+that all of the scientists, engineers, and factories need to learn and use in
+their careers. This article briefly introduced data science and reviewed its
+methods, especially it's usages in mechanical engineering and challenges and
+ways of developing data science in mechanical engineering. In the introduction,
+different definitions of data science and its background in technology
+reviewed. In the following, data science methodology which is the process that
+a data scientist needs to do in its works been discussed. Further, some
+researches in the mechanical engineering area that used data science methods in
+their studies, are reviewed. Eventually, it has been discussed according to the
+subjects that have been reviewed in the article, why it is necessary to use
+data science in mechanical engineering researches and projects.",http://arxiv.org/abs/2012.15358v1
+Science Fiction Media Representations of Exoplanets: Portrayals of Changing Astronomical Discoveries,"Interest in science fiction's (SF's) potential science communication use is
+hindered by concerns about SF misrepresenting science. This study addresses
+these concerns by asking how SF media reflects scientific findings in exoplanet
+science. A database of SF exoplanets was analysed using a Bayesian network to
+find interconnected interactions between planetary characterisation features
+and literary data. Results reveal SF exoplanets designed after the discovery of
+real exoplanets are less Earth-like, providing statistical evidence that SF
+incorporates rapidly-evolving science. Understanding SF's portrayal of science
+is crucial for its potential use in science communication.",http://arxiv.org/abs/2405.00684v1
+Teaching Visual Accessibility in Introductory Data Science Classes with Multi-Modal Data Representations,"Although there are various ways to represent data patterns and models,
+visualization has been primarily taught in many data science courses for its
+efficiency. Such vision-dependent output may cause critical barriers against
+those who are blind and visually impaired and people with learning
+disabilities. We argue that instructors need to teach multiple data
+representation methods so that all students can produce data products that are
+more accessible. In this paper, we argue that accessibility should be taught as
+early as the introductory course as part of the data science curriculum so that
+regardless of whether learners major in data science or not, they can have
+foundational exposure to accessibility. As data science educators who teach
+accessibility as part of our lower-division courses in two different
+institutions, we share specific examples that can be utilized by other data
+science instructors.",http://arxiv.org/abs/2208.02565v1
+Linked Environment Data for the Life Sciences,"Environment Agencies from Europe and the US are setting up a network of
+Linked Environment Data and are looking to crosslink it with Linked Data
+contributions from the life sciences.",http://arxiv.org/abs/1012.1620v1
+The Difficulties of Addressing Interdisciplinary Challenges at the Foundations of Data Science,"The National Science Foundation's Transdisciplinary Research in Principles of
+Data Science (TRIPODS) program aims to integrate three areas central to the
+foundations of data by uniting the statistics, mathematics, and theoretical
+computer science research communities. The program aims to provide a model for
+funding cross-cutting research and facilitating interactions among the three
+disciplines. Challenges associated with orchestrating fruitful interactions are
+described.",http://arxiv.org/abs/1909.03033v1
+Data Makes Better Data Scientists,"With the goal of identifying common practices in data science projects, this
+paper proposes a framework for logging and understanding incremental code
+executions in Jupyter notebooks. This framework aims to allow reasoning about
+how insights are generated in data science and extract key observations into
+best data science practices in the wild. In this paper, we show an early
+prototype of this framework and ran an experiment to log a machine learning
+project for 25 undergraduate students.",http://arxiv.org/abs/2405.17690v1
+Square Kilometre Array Science Data Challenge 1,"The Square Kilometre Array (SKA, https://skatelescope.org) will be the
+world's largest radio telescope. SKA Science Data Challenges will be regularly
+issued to the community as part of the science preparatory activities. The
+purpose of these challenges is to inform the development of the data reduction
+workflows, to allow the science community to get familiar with the standard
+products the SKA will deliver, and optimise their analyses to extract science
+from them. These challenges may consist of real data from currently operating
+radio facilities or of simulated SKA data. The purpose of this document is to
+provide information on how the SKA Science data challenge #1 (SDC1) has been
+produced and to set the challenge for the community. For more information on
+how to take part in the challenge and to download the data see
+https://astronomers.skatelescope.org/ska-science-data-challenge-1/",http://arxiv.org/abs/1811.10454v1
+NOMAD: The FAIR Concept for Big-Data-Driven Materials Science,"Data is a crucial raw material of this century, and the amount of data that
+has been created in materials science in recent years and is being created
+every new day is immense. Without a proper infrastructure that allows for
+collecting and sharing data (including the original data), the envisioned
+success of materials science and, in particular, Big-Data driven materials
+science will be hampered. For the field of computational materials science, the
+NOMAD (Novel Materials Discovery) Center of Excellence (CoE) has changed the
+scientific culture towards a comprehensive and FAIR data sharing, opening new
+avenues for mining Big-Data of materials science. Novel data-analytics concepts
+and tools turn data into knowledge and help the prediction of new materials or
+the identification of new properties of already known materials.",http://arxiv.org/abs/1805.05039v1
+Data Science and Ebola,"Data Science---Today, everybody and everything produces data. People produce
+large amounts of data in social networks and in commercial transactions.
+Medical, corporate, and government databases continue to grow. Sensors continue
+to get cheaper and are increasingly connected, creating an Internet of Things,
+and generating even more data. In every discipline, large, diverse, and rich
+data sets are emerging, from astrophysics, to the life sciences, to the
+behavioral sciences, to finance and commerce, to the humanities and to the
+arts. In every discipline people want to organize, analyze, optimize and
+understand their data to answer questions and to deepen insights. The science
+that is transforming this ocean of data into a sea of knowledge is called data
+science. This lecture will discuss how data science has changed the way in
+which one of the most visible challenges to public health is handled, the 2014
+Ebola outbreak in West Africa.",http://arxiv.org/abs/1504.02878v1
+Data Science: Challenges and Directions,"While data science has emerged as a contentious new scientific field,
+enormous debates and discussions have been made on it why we need data science
+and what makes it as a science. In reviewing hundreds of pieces of literature
+which include data science in their titles, we find that the majority of the
+discussions essentially concern statistics, data mining, machine learning, big
+data, or broadly data analytics, and only a limited number of new data-driven
+challenges and directions have been explored. In this paper, we explore the
+intrinsic challenges and directions inspired by comprehensively exploring the
+complexities and intelligence embedded in data science problems. We focus on
+the research and innovation challenges inspired by the nature of data science
+problems as complex systems, and the methodologies for handling such systems.",http://arxiv.org/abs/2006.16966v1
+Computational Skills by Stealth in Secondary School Data Science,"The unprecedented growth in the availability of data of all types and
+qualities and the emergence of the field of data science has provided an
+impetus to finally realizing the implementation of the full breadth of the
+Nolan and Temple Lang proposed integration of computing concepts into
+statistics curricula at all levels in statistics and new data science programs
+and courses. Moreover, data science, implemented carefully, opens accessible
+pathways to stem for students for whom neither mathematics nor computer science
+are natural affinities, and who would traditionally be excluded. We discuss a
+proposal for the stealth development of computational skills in students' first
+exposure to data science through careful, scaffolded exposure to computation
+and its power. The intent of this approach is to support students, regardless
+of interest and self-efficacy in coding, in becoming data-driven learners, who
+are capable of asking complex questions about the world around them, and then
+answering those questions through the use of data-driven inquiry. This
+discussion is presented in the context of the International Data Science in
+Schools Project which recently published computer science and statistics
+consensus curriculum frameworks for a two-year secondary school data science
+program, designed to make data science accessible to all.",http://arxiv.org/abs/2010.07017v1
+A survey study of success factors in data science projects,"In recent years, the data science community has pursued excellence and made
+significant research efforts to develop advanced analytics, focusing on solving
+technical problems at the expense of organizational and socio-technical
+challenges. According to previous surveys on the state of data science project
+management, there is a significant gap between technical and organizational
+processes. In this article we present new empirical data from a survey to 237
+data science professionals on the use of project management methodologies for
+data science. We provide additional profiling of the survey respondents' roles
+and their priorities when executing data science projects. Based on this survey
+study, the main findings are: (1) Agile data science lifecycle is the most
+widely used framework, but only 25% of the survey participants state to follow
+a data science project methodology. (2) The most important success factors are
+precisely describing stakeholders' needs, communicating the results to
+end-users, and team collaboration and coordination. (3) Professionals who
+adhere to a project methodology place greater emphasis on the project's
+potential risks and pitfalls, version control, the deployment pipeline to
+production, and data security and privacy.",http://arxiv.org/abs/2201.06310v1
+Categorical Data Integration for Computational Science,"Categorical Query Language is an open-source query and data integration
+scripting language that can be applied to common challenges in the field of
+computational science. We discuss how the structure-preserving nature of CQL
+data migrations protect those who publicly share data from the
+misinterpretation of their data. Likewise, this feature of CQL migrations
+allows those who draw from public data sources to be sure only data which meets
+their specification will actually be transferred. We argue some open problems
+in the field of data sharing in computational science are addressable by
+working within this paradigm of functorial data migration. We demonstrate these
+tools by integrating data from the Open Quantum Materials Database with some
+alternative materials databases.",http://arxiv.org/abs/1903.10579v1
+Toward a Knowledge Discovery Framework for Data Science Job Market in the United States,"The growth of the data science field requires better tools to understand such
+a fast-paced growing domain. Moreover, individuals from different backgrounds
+became interested in following a career as data scientists. Therefore,
+providing a quantitative guide for individuals and organizations to understand
+the skills required in the job market would be crucial. This paper introduces a
+framework to analyze the job market for data science-related jobs within the US
+while providing an interface to access insights in this market. The proposed
+framework includes three sub-modules allowing continuous data collection,
+information extraction, and a web-based dashboard visualization to investigate
+the spatial and temporal distribution of data science-related jobs and skills.
+The result of this work shows important skills for the main branches of data
+science jobs and attempts to provide a skill-based definition of these data
+science branches. The current version of this application is deployed on the
+web and allows individuals and institutes to investigate skills required for
+data science positions through the industry lens.",http://arxiv.org/abs/2106.11077v2
+Perspective on Data Science,"The field of data science currently enjoys a broad definition that includes a
+wide array of activities which borrow from many other established fields of
+study. Having such a vague characterization of a field in the early stages
+might be natural, but over time maintaining such a broad definition becomes
+unwieldy and impedes progress. In particular, the teaching of data science is
+hampered by the seeming need to cover many different points of interest. Data
+scientists must ultimately identify the core of the field by determining what
+makes the field unique and what it means to develop new knowledge in data
+science. In this review we attempt to distill some core ideas from data science
+by focusing on the iterative process of data analysis and develop some
+generalizations from past experience. Generalizations of this nature could form
+the basis of a theory of data science and would serve to unify and scale the
+teaching of data science to large audiences.",http://arxiv.org/abs/2105.06324v1
+Facilitating team-based data science: lessons learned from the DSC-WAV project,"While coursework provides undergraduate data science students with some
+relevant analytic skills, many are not given the rich experiences with data and
+computing they need to be successful in the workplace. Additionally, students
+often have limited exposure to team-based data science and the principles and
+tools of collaboration that are encountered outside of school. In this paper,
+we describe the DSC-WAV program, an NSF-funded data science workforce
+development project in which teams of undergraduate sophomores and juniors work
+with a local non-profit organization on a data-focused problem. To help
+students develop a sense of agency and improve confidence in their technical
+and non-technical data science skills, the project promoted a team-based
+approach to data science, adopting several processes and tools intended to
+facilitate this collaboration. Evidence from the project evaluation, including
+participant survey and interview data, is presented to document the degree to
+which the project was successful in engaging students in team-based data
+science, and how the project changed the students' perceptions of their
+technical and non-technical skills. We also examine opportunities for
+improvement and offer insight to other data science educators who may want to
+implement a similar team-based approach to data science projects at their own
+institutions.",http://arxiv.org/abs/2106.11209v4
+Data science and Machine learning in the Clouds: A Perspective for the Future,"As we are fast approaching the beginning of a paradigm shift in the field of
+science, Data driven science (the so called fourth science paradigm) is going
+to be the driving force in research and innovation. From medicine to
+biodiversity and astronomy to geology, all these terms are somehow going to be
+affected by this paradigm shift. The huge amount of data to be processed under
+this new paradigm will be a major concern in the future and one will strongly
+require cloud based services in all the aspects of these computations (from
+storage to compute and other services). Another aspect will be energy
+consumption and performance of prediction jobs and tasks within such a
+scientific paradigm which will change the way one sees computation. Data
+science has heavily impacted or rather triggered the emergence of Machine
+Learning, Signal/Image/Video processing related algorithms, Artificial
+intelligence, Robotics, health informatics, geoinformatics, and many more such
+areas of interest. Hence, we envisage an era where Data science can deliver its
+promises with the help of the existing cloud based platforms and services with
+the addition of new services. In this article, we discuss about data driven
+science and Machine learning and how they are going to be linked through cloud
+based services in the future. It also discusses the rise of paradigms like
+approximate computing, quantum computing and many more in recent times and
+their applicability in big data processing, data science, analytics, prediction
+and machine learning in the cloud environments.",http://arxiv.org/abs/2109.01661v1
